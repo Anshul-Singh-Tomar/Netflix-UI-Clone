@@ -290,7 +290,9 @@ footer {
 
     .secImg video {
 
-        width: 350px;
+        width: 305px;
+        top: -10px;
+        left: 58px;
 
     }
     
